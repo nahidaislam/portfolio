@@ -51,7 +51,7 @@ class Header extends Component {
               </li>
               <li className="px-2 mx-2">
                 <Link className="nav-link p-0 pb-1" to={ROUTES.About}>
-                  About
+                  Aboutsssssssssss
                 </Link>
               </li>
             </ul>
