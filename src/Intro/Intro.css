@@ -1,0 +1,54 @@
+.profile {
+  background-image: url("../Images/ProfilePicture/introPro.png");
+  background-size: 28.125rem;
+  background-position: 20% 30vh;
+  background-repeat: no-repeat;
+  min-height: 100vh;
+}
+
+.home-content {
+  padding-top: 140px;
+}
+
+.text2 {
+  padding: 10px 0 0 50px;
+}
+.introText {
+  float: right;
+}
+
+.social-ul {
+  list-style: none;
+  display: inline-block;
+}
+
+.social-media-fill {
+  fill: #96a79a !important;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+  margin: 20px 0 0 20px;
+}
+
+.social-media-fill:hover {
+  fill: #60ffe1 !important;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+
+@media (max-width: 991px) {
+  .profile {
+    background-size: 240px;
+    background-position: 50% 30vh;
+  }
+  .home-content {
+    padding-top: 355px;
+    padding-bottom: 150px;
+  }
+  .introText {
+    float: right;
+  }
+  .text2 {
+    padding-bottom: 0;
+    font-size: 16px;
+  }
+}

@@ -1,0 +1,23 @@
+.about {
+  padding-top: 100px;
+}
+.aboutText h2 {
+  color: #ece4e4;
+  padding-bottom: 20px;
+}
+.aboutme {
+  padding-top: 30px;
+}
+.aboutme img {
+  border: 4px solid #60ffe1;
+}
+.unicorn {
+  transition: 0.2s ease-in-out, 0.2s ease-in-out;
+}
+.unicorn:hover {
+  transform: scale(1) translatey(-20px);
+  text-shadow: 0 20px 20px rgba(0, 0, 0, 0.3);
+}
+.unicorn::after {
+  content: "\1F984";
+}
