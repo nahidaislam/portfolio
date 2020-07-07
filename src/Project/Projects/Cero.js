@@ -33,7 +33,7 @@ export default class Cero extends Component {
     return (
       <Project>
         <Title
-          title="Cero simutlation tool"
+          title="Cero simulation tool"
           role="Role: UX designer (Master's thesis)"
         />
         <Container>
