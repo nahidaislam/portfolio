@@ -34,7 +34,7 @@ export default class Cero extends Component {
       <Project>
         <Title
           title="Cero simulation tool"
-          role="Role: UX designer (Master's thesis project)"
+          role="Role: UX designer (Master's thesis)"
         />
         <Container>
           <Section>
