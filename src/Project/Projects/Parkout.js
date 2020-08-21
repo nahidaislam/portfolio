@@ -111,6 +111,9 @@ export default class Parkout extends Component {
                 Dimberg and Nahida Islam.
               </p>
               <div className="row m-0 p-0 justify-content-around">
+                <Button href="https://www.behance.net/gallery/102203109/ParkOut">
+                  Prototype
+                </Button>
                 <Button href="https://github.com/nahidaislam/Mobile-Development-with-Web-Technologies-DM2518/tree/master/Parkout-App">
                   Github
                 </Button>

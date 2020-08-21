@@ -92,6 +92,9 @@ export default class Cero extends Component {
                 <Button href="https://www.figma.com/proto/xsvmolHIFKxdxuHchYEdar/CERO?node-id=397%3A16721&scaling=contain">
                   Prototype
                 </Button>
+                <Button href="https://kth.diva-portal.org/smash/record.jsf?dswid=-8448&pid=diva2%3A1459712&c=1&searchType=SIMPLE&language=sv&query=nahida+islam&af=%5B%5D&aq=%5B%5B%5D%5D&aq2=%5B%5B%5D%5D&aqe=%5B%5D&noOfRows=50&sortOrder=author_sort_asc&sortOrder2=title_sort_asc&onlyFullText=false&sf=all">
+                  Report
+                </Button>
                 <Button href="https://cero.nu/">CERO</Button>
               </div>
             </Text>
